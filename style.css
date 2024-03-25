@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(253, 246, 238);
+    background-repeat: no-repeat;
+}
+
+#judul {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(4, 238, 255);
+    text-align: center;
+    margin: 0;
+    font-size: 100pt;
+    background-color: rgb(253, 246, 238);
+}
+
+table{
+    display: inline-block;
+}
+
+#jdl{
+    text-align: center;
+}
+
+#member{
+    width: 100pt;
+    display: inline-block;
+}
+
+#mnama{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#mposisi{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#mtgl {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#mmbti {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.left-div{
+    width: 150px;
+    display:inline-block;
+}
+
+.right-div{
+    display: inline-block;
+}
